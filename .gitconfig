@@ -1,0 +1,17 @@
+[user]
+	email = joe321@yahoo-inc.com
+	name = Joe Hsu
+[color]
+	branch = auto
+	status = auto
+	ui = true
+[branch]
+	autosetuprebase = always
+[push]
+	default = matching
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	info = remote show origin
